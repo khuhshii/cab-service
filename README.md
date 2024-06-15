@@ -220,7 +220,7 @@ To be implemented.
 To be implemented.
 
 ## Contact
-For further information or inquiries, please contact [your-email@example.com].
+For further information or inquiries, please contact [khushi6452@gmail.com].
 
 ---
 
