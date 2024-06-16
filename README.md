@@ -24,7 +24,7 @@ This backend application provides an API for a taxi service. It includes functio
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/taxi-service-backend.git
+git clone https://github.com/khuhshii/taxi-service-backend.git
 cd taxi-service-backend
 ```
 
